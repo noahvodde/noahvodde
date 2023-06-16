@@ -1,6 +1,5 @@
 ### Hello👋, welcome to my Github profile!
-I am a student currently studying Economics and writing my Master's thesis on 
-Artificial Intelligence in Agriculture. I have a passion for data analysis, data 
+I have a passion for data analysis, data 
 visualisation and machine learning. My personal goal is to use data science to 
 transform data into valuable information that contributes to sustainable 
 development and makes people's lives easier. I encourage you to check out my data 
