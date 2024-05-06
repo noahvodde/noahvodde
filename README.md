@@ -1,9 +1,5 @@
-### Hello👋, welcome to my Github profile!
-I have a passion for data analysis, data 
-visualisation and machine learning. My personal goal is to use data science to 
-transform data into valuable information that contributes to sustainable 
-development and makes people's lives easier. I encourage you to check out my data 
-science projects below.
+### Hi 👋, I'm Noah
+I’m currently learning about **ML/DL and Cybersecurity**
 
 ### Learn more about my experiences 🎓
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-vodde)
