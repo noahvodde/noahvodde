@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Noah
-I’m currently learning about **Machine Learning , Deep Learning and Cybersecurity**.
+I’m currently learning about **Machine Learning, Deep Learning and Cybersecurity**.
 
 ### Learn more about my experiences 🎓
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-vodde)
