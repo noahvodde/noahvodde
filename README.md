@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Noah
-I’m currently learning about **ML,DL and Cybersecurity**.
+I’m currently learning about **ML, DL and Cybersecurity**.
 
 ### Learn more about my experiences 🎓
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-vodde)
